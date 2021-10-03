@@ -16,7 +16,8 @@ Where output1.ppm is with one pointlight and ouput2.ppm is with two pointlights.
 To generate the output2.ppm, Go to Sphere.cpp and Triangle.cpp and uncomment the second shade() definition. 
 For this project light two will only affect sphere and triangle so I'm not using a vector. instead just hardcoding the second light with shade definition.
 
-![output](https://user-images.githubusercontent.com/47680537/135742916-ab95b029-cba6-4a08-b093-0f47b66992d3.png)
 
-![output2](https://user-images.githubusercontent.com/47680537/135742924-f4c6b487-d7d0-462c-b907-54cd7b2b14fb.png)
 
+<img width="1018" alt="Screen Shot 2021-10-03 at 02 37 23" src="https://user-images.githubusercontent.com/47680537/135742992-9dacbd00-246c-496e-8011-e0266ab6e3b4.png">
+
+<img width="1019" alt="Screen Shot 2021-10-03 at 02 37 42" src="https://user-images.githubusercontent.com/47680537/135742995-e3e97838-bb69-4406-9392-205a6585d4c8.png">
