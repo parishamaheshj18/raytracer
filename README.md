@@ -16,7 +16,7 @@ Where output1.ppm is with one pointlight and ouput2.ppm is with two pointlights.
 To generate the output2.ppm, Go to Sphere.cpp and Triangle.cpp and uncomment the second shade() definition. 
 For this project light two will only affect sphere and triangle so I'm not using a vector. instead just hardcoding the second light with shade definition.
 
-![output with one light](https://github.com/parishamaheshj18/raytracer/blob/main/outputs/output.png)
+![output with one light](outputs/output.png)
 
-![output with two lights](https://github.com/parishamaheshj18/raytracer/blob/main/outputs/output2.png)
+![output with two lights](outputs/output2.png)
 
