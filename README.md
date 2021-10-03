@@ -1,4 +1,4 @@
-# raytracer
+# Raytracer
 
 Ray tracer with C++
 ## 3 Steps to run the code:
