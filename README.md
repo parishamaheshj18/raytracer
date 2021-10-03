@@ -1,11 +1,12 @@
 # raytracer
+-----------
 Ray tracer with C++
 ##3 Steps to run the code:
-
+```
 - $make clean
 - $make 
 - $./raytrace
-
+```
  Your output will be stored as output.ppm.
 
 
