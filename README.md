@@ -7,6 +7,9 @@ Ray tracer with C++
   $make 
   $./raytrace
 ```
+## Shading
+For this code I am using Lambertian shading. I will add more examples of other kinds of shadings if I get time.
+
 ## Output files
 
 Your output will be stored as output.ppm.
