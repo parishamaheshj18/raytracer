@@ -1,8 +1,10 @@
 # Raytracer
 
 Ray tracer with C++
-## 3 Steps to run the code:
+## Run
 ```
+//clone repository
+  $cd /path/to/directory
   $make clean
   $make 
   $./raytrace
